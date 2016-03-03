@@ -1,1 +1,4 @@
 slurm*.out
+
+# PYNAMIC output picture.
+output.bmp
